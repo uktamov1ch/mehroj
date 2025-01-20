@@ -1,0 +1,192 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+header, footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+        }
+        header a, footer a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+        }
+        .social-icons a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        .contact-form input, .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .contact-form button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .contact-form button:hover {
+            background-color: #555;
+        }
+      
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            color: #333;
+        }
+
+        header,
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #fff;
+
+        }
+
+        header a,
+        footer a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+
+        }
+
+        .footer-logo {
+            width: 60px;
+            height: 32px;
+        }
+
+        h1 {
+            font-size: 24px;
+
+        }
+
+        .text {
+            align-items: start;
+            width: 400px;
+            height: 230px;
+
+        }
+
+        .social-icons a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+
+        .contact-form input,
+        .contact-form textarea {
+            width: 75%;
+            padding: 10px;
+            margin: 0 auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .title {
+            display: flex;
+            margin: 0 auto;
+            gap: 40px;
+            margin-left: 70px;
+        }
+
+        .button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 310px;
+            margin-top: 20px;
+
+        }
+
+        .button:hover {
+            background-color: #555;
+        }
+
+        .get-in-touch {
+
+
+            justify-content: space-around;
+        }
+
+        .GitHub {
+            width: 104px;
+            height: 24px;
+            margin-left: -270px;
+        }
+
+        .h1stile {
+            width: 250px;
+            margin-left: -20px;
+        }
+
+        .footer {
+
+            margin: 40px auto;
+            display: flex;
+            width: 80%;
+            background-color: rgba(51, 50, 61, 1);
+            height: 80px;
+            align-items: center;
+            justify-content: space-around;
+        }
+
+        .linklar {
+            color: silver;
+            display: flex;
+        }
+
+        .linklar :hover {
+            color: white;
+
+        }
+
+        .find {
+            display: flex;
+            align-items: center;
+        }
+
+        .nav {
+
+            margin: 10px auto;
+            display: flex;
+            width: 70%;
+            height: 60px;
+            align-items: center;
+            justify-content: space-between;
+        }
+   
